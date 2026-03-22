@@ -20,3 +20,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Added basic usage examples to README
 - Added type hints to helper functions
+
+## 2026-03-23
+- Added basic retry logic for network requests
+- Verified API endpoint response schema
