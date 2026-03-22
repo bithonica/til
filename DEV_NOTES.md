@@ -12,3 +12,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-22
 - Updated license year
+
+## 2026-03-22
+- Reviewed open issues, added labels
