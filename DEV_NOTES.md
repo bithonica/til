@@ -36,3 +36,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Added .editorconfig for consistent formatting
 - Added basic retry logic for network requests
+
+## 2026-04-06
+- Added type hints to helper functions
+- Bumped patch version
+- Investigated performance bottleneck, noted findings
