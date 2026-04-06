@@ -32,3 +32,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Cleaned up old debug logs
 - Added CONTRIBUTING.md stub
+
+## 2026-04-06
+- Added .editorconfig for consistent formatting
+- Added basic retry logic for network requests
