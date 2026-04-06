@@ -41,3 +41,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Bumped patch version
 - Investigated performance bottleneck, noted findings
+
+## 2026-04-06
+- Added basic usage examples to README
+- Drafted initial implementation plan for v2
